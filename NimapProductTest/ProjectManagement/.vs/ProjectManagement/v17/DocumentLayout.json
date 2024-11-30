@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\Drive E\\00CSharpPractise\\NimapTest\\NimapProductTest\\ProjectManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E7E3985-607E-45E4-81EE-132787459A9D}|ProjectManagement.csproj|f:\\drive e\\00csharppractise\\nimaptest\\nimapproducttest\\projectmanagement\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7E3985-607E-45E4-81EE-132787459A9D}|ProjectManagement.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E7E3985-607E-45E4-81EE-132787459A9D}|ProjectManagement.csproj|f:\\drive e\\00csharppractise\\nimaptest\\nimapproducttest\\projectmanagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E7E3985-607E-45E4-81EE-132787459A9D}|ProjectManagement.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1E7E3985-607E-45E4-81EE-132787459A9D}|ProjectManagement.csproj|f:\\drive e\\00csharppractise\\nimaptest\\nimapproducttest\\projectmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E7E3985-607E-45E4-81EE-132787459A9D}|ProjectManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E7E3985-607E-45E4-81EE-132787459A9D}|ProjectManagement.csproj|f:\\drive e\\00csharppractise\\nimaptest\\nimapproducttest\\projectmanagement\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E7E3985-607E-45E4-81EE-132787459A9D}|ProjectManagement.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E7E3985-607E-45E4-81EE-132787459A9D}|ProjectManagement.csproj|f:\\drive e\\00csharppractise\\nimaptest\\nimapproducttest\\projectmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Drive E\\00CSharpPractise\\NimapTest\\NimapProductTest\\ProjectManagement\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -98,16 +98,21 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "F:\\Drive E\\00CSharpPractise\\NimapTest\\NimapProductTest\\ProjectManagement\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
               "ToolTip": "F:\\Drive E\\00CSharpPractise\\NimapTest\\NimapProductTest\\ProjectManagement\\Repository\\ProductRepository.cs",
               "RelativeToolTip": "Repository\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T13:56:22.675Z"
+              "WhenOpened": "2024-11-29T13:56:22.675Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -147,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductService.cs",
               "DocumentMoniker": "F:\\Drive E\\00CSharpPractise\\NimapTest\\NimapProductTest\\ProjectManagement\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Services\\ProductService.cs",
@@ -160,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IProductService.cs",
               "DocumentMoniker": "F:\\Drive E\\00CSharpPractise\\NimapTest\\NimapProductTest\\ProjectManagement\\Services\\Interface\\IProductService.cs",
               "RelativeDocumentMoniker": "Services\\Interface\\IProductService.cs",
@@ -172,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "F:\\Drive E\\00CSharpPractise\\NimapTest\\NimapProductTest\\ProjectManagement\\DTO\\ProductDto.cs",
               "RelativeDocumentMoniker": "DTO\\ProductDto.cs",
