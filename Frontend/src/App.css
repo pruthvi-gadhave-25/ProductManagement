@@ -1,0 +1,29 @@
+.App header{
+ text-align: center;
+}
+.product-list{
+  width: 60%;
+  margin: auto;
+}
+
+.product-button{
+  margin-left: 30%;
+}
+
+/* .add-product-button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.add-product-button:hover {
+  background-color: #45a049;
+} */
